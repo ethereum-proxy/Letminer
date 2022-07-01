@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="﻿https://github.com/ethereum-proxy/Minerproxy/logo.png" width="400"/>
+ <img src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/logo.png" width="400"/>
 </h1>
 
 <h4 align="center">letsec 加密隧道，Go语言原生开发，letminer专用加密客户端。
