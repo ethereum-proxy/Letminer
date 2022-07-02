@@ -47,12 +47,12 @@ bash <(curl -s -L https://cdn.statically.io/gh/ethereum-proxy/letsec/main/instal
 
 # ·  版本日志
 ```bash
-2022/06/23 v1.0.0  发布第一个版本；letminer（版本>=2.0.0）专用本地加密客户端。
+2022/07/01 v1.0.0  发布第一个版本；letminer（版本>=1.0.0）专用本地加密客户端。
 ```
   
 # · 联系我们
 ```bash
-1、Telegram技术交流群：https://t.me/minerproxys
+1、Telegram技术交流群：https://t.me/minerproxy
 2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
 ```    
 
